@@ -1,0 +1,20 @@
+body{
+    background-color:lightcoral;
+}
+.heading{
+    font-style: italic;
+    width: 100%;
+    padding: 10px;
+ border-radius: 10px;
+}
+.objects{
+    font-size: 28px;
+    font-family: cursive ;
+    font-weight: bolder;
+    color: lightskyblue;
+}
+#camera{
+    border: 3px solid ;
+    height: 300px;
+    width: 400px;
+}
